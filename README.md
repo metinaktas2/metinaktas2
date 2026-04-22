@@ -1,5 +1,5 @@
 👋 Merhaba, ben Metin.  
-💻 Yazılımla ilgilenmeye 2 yıl önce başladım ve o günden beri kendimi bu alanda geliştirmekten büyük keyif alıyorum.  
+💻 Yazılımla ilgilenmeye 3 yıl önce başladım ve o günden beri kendimi bu alanda geliştirmekten büyük keyif alıyorum.  
 🎓 Bilgisayar Mühendisliği öğrencisiyim ve her geçen gün yeni şeyler öğrenmeye çalışıyorum.  
 🌐 Şu anda ağırlıklı olarak **JavaScript** ve **React** üzerine çalışıyor, modern web teknolojilerini keşfetmeye odaklanıyorum.  
 🔍 Amacım sadece çalışan değil; anlaşılır, sürdürülebilir ve temiz kodlar yazmak.  
