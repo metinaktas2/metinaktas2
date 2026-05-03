@@ -7,18 +7,6 @@
 🚀 Öğrenmeye açık, motive ve teknolojiye tutkuyla bağlı biri olarak sürekli gelişmeyi hedefliyorum.
 📌 GitHub profilimde projelerimi inceleyebilir, çalışmalarımı yakından takip edebilirsin.
 
-# Hi 👋, I'm Metin Aktaş
-
-### 🚀 Frontend Developer from Turkey
-
-I build modern, responsive and user-focused web applications.  
-Currently improving myself in frontend and full-stack development.
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=metinaktas2&color=blue)
 
 ---
 
