@@ -42,7 +42,7 @@
 
 ## ⚡ About Me
 
-- 🔭 I’m currently working on frontend projects  
+- 🔭 I’m currently working on react native projects  
 - 🌱 Learning advanced React & system design  
 - 💡 Interested in freelance & real-world projects  
 - 🎯 Goal: Becoming a high-level full-stack developer  
