@@ -18,12 +18,16 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=metinaktas2&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinaktas2&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metinaktas2&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=metinaktas2&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metinaktas2&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=metinaktas2&theme=tokyonight)
+---
 
 ---
 
