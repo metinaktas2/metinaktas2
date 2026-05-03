@@ -18,7 +18,8 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=metinaktas2&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=metinaktas2&layout=compact&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=metinaktas2&show_icons=true&theme=tokyonight)
 
